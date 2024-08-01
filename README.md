@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,azure,MySQL)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,azure,Mysql)](https://skillicons.dev)
 
