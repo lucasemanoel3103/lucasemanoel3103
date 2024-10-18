@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, my name is Lucas Emanoel.<br><br>I am a Full Stack Development student, focused on learning and developing projects using various technologies. My goal is to create dynamic, responsive, and efficient web applications, working on both the front-end and back-end.</p>
+<p align="left">Hello, my name is Lucas Emanoel.<br><br>I am a Full Stack Development student, focused on learning and developing projects using various technologies. My goal is to create dynamic, responsive and efficient web applications, working on both the front-end and back-end.</p>
 
 ###
 
