@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, my name is Lucas Emanoel.<br><br>I am a Full Stack Development student, focused on learning and developing projects using various technologies. My goal is to create dynamic, responsive and efficient web applications, working on both the front-end and back-end.</p>
+<p align="left">Hello, my name is Lucas Emanoel.<br><br>I am a Full Stack Development student, focused on learning and developing projects using various technologies. My goal is to create dynamic, responsive, and efficient web applications, working on both the front-end and back-end.</p>
 
 ###
 
@@ -21,13 +21,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
@@ -69,7 +65,3 @@
 </div>
 
 ###
-
-
-  
-
