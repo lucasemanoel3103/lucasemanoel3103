@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá,  me chamo Lucas Emanoel, tenho 25 anos e estou na transição de carreira para a área de tecnologia. Venho de alguns anos trabalhando na área da usinagem e mecânica automotiva, porém sempre fui apaixonado por tecnologia e, desde o inicio de 2024, entrei de vez no mundo da programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Anhanguera e estou sempre buscando mais conhecimento e aprimorar minhas habilidades com cursos na DIO, Alura, Hora de codar e Curso em vídeo. meu objetivo é construir soluções que facilitem a vida das pessoas e contribuir para crescimento das empresas</p>
+<p align="left">Olá,  me chamo Lucas Emanoel, tenho 25 anos e estou na transição de carreira para a área de tecnologia. Venho de alguns anos trabalhando na área da usinagem e mecânica automotiva, porém sempre fui apaixonado por tecnologia e, desde o inicio de 2024, entrei de vez no mundo da programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Estácio e estou sempre buscando mais conhecimento e aprimorar minhas habilidades com cursos na DIO, Udemy, Hora de codar e Curso em vídeo. meu objetivo é construir soluções que facilitem a vida das pessoas e contribuir para crescimento das empresas</p>
 
 ###
 
